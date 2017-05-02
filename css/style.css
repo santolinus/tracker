@@ -1,0 +1,22 @@
+*{
+  color: red;
+}
+.navbar{
+border-radius: 0px;
+}
+.jumbotron{
+  height: 500px;
+  text-align: center;
+  margin-top: 100px;
+  border-radius: 50px;
+  background-image: url("../img/4.jpg");
+}
+.results{
+  margin-top: 600px;
+  padding-top: 100px;
+}
+.footer {
+  position: absolute;
+  bottom: 2px;
+ left: 40%;
+}
